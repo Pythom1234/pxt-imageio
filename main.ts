@@ -1,4 +1,4 @@
-//% color=#157432 icon="f03e"
+//% color=#157432 icon="\uf03e"
 namespace imageio {
     //% block="5×5"
     //% subcategory="normal"
