@@ -60,7 +60,7 @@ namespace imageio {
     //% weight=100
     //% subcategory="very big"
     //% shim=images::createImage
-    //% imageLiteral=1 imageLiteralRows=46 imageLiteralColumns=32
+    //% imageLiteral=1 imageLiteralRows=16 imageLiteralColumns=32
     export function createImage16x32(leds: string): Image {
         return <Image><any>leds
     }
