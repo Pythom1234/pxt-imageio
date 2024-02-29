@@ -1,3 +1,4 @@
+//% color=#157432
 namespace imageio {
     //% block="5×5"
     //% subcategory="normal"
